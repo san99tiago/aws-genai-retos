@@ -237,7 +237,7 @@ Este programa te convertirá en un verdadero Maestro Jedi de la IA Generativa. C
 - [AWS CLI](https://aws.amazon.com/cli/)
 - [Boto3 Python SDK](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 - [Strands Framework](https://github.com/awslabs/strands)
-- [MCP Servers](https://github.com/awslabs/mcp-servers)
+- [MCP Servers](https://awslabs.github.io/mcp/)
 
 ### 🎓 Recursos de Aprendizaje
 
